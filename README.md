@@ -1,1 +1,1 @@
-# HMS_HBAC
+# Harmful Brain Activity Classification
